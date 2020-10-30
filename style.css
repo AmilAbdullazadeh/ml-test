@@ -1,0 +1,22 @@
+main div {
+  width: 100%;
+  height: 500px; }
+  main div #head-ul {
+    width: 100%;
+    height: 200px;
+    background-color: cornflowerblue;
+    list-style-type: none; }
+    main div #head-ul .li-tag {
+      width: 100%;
+      height: 50px;
+      text-align: center;
+      background-color: beige; }
+      main div #head-ul .li-tag a {
+        color: red;
+        text-decoration: none; }
+
+.active {
+  background-color: darkblue;
+  text-decoration: line-through; }
+
+/*# sourceMappingURL=style.css.map */

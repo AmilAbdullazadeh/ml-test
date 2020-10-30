@@ -1,0 +1,18 @@
+%flex-box{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+%border-box {
+    border: 1px solid #000000;
+    border-radius: 10px;
+    padding: 5px 5px;
+}
+
+%background {
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
